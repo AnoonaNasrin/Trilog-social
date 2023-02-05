@@ -1,0 +1,6 @@
+/client/node_modules
+/.pnp
+.pnp.js
+
+/server/node_modules
+/server/.env
